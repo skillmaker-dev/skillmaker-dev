@@ -6,4 +6,4 @@
 - E-mail: anas.chahid777@gmail.com
 - LinkedIn: www.linkedin.com/in/anas-chahid
 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=skillmaker-dev&show_icons=true)
