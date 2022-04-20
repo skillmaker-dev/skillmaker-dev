@@ -7,3 +7,6 @@
 - LinkedIn: www.linkedin.com/in/anas-chahid
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=skillmaker-dev&show_icons=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=skillmaker-dev)
+
