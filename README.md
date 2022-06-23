@@ -9,6 +9,7 @@
 📫 **Reach out to me:** 
 - E-mail: anas.chahid777@gmail.com
 - LinkedIn: www.linkedin.com/in/anas-chahid
+- Portfolio: https://anaschahid.netlify.app/
 
 🛠 **Tech Stack**
 <br/>
