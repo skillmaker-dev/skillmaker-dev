@@ -34,7 +34,9 @@
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=skillmaker-dev&show_icons=true&theme=blue-white)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=skillmaker-dev&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,30496B,30B8D2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skillmaker-dev&layout=compact)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=skillmaker-dev)
 
