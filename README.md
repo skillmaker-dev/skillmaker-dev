@@ -1,15 +1,13 @@
 ## Welcome
 🔭 **Introduction**
 -  I’m  **Anas Chahid**
--  I'm currently a software enginering student and Fullstack ASP.NET & React.js Developper 
--   I’m looking to collaborate on any ASP.NET Core Open Source project
--  Feel free to commit
+-  I'm currently a Fullstack ASP.NET, React and Blazor Developer !
 
 
 📫 **Reach out to me:** 
 - E-mail: anas.chahid777@gmail.com
 - LinkedIn: www.linkedin.com/in/anas-chahid
-- Portfolio: https://anaschahid.netlify.app/
+- Portfolio: https://anaschahid.work/
 
 🛠 **Tech Stack**
 <br/>
